@@ -8,8 +8,8 @@
 					<img src="/img/logo.png" />
 				</a>
 			</li>			
-			<li><a href="/menu/brunch">Brunch Menu</a></li>
-			<li><a href="/menu/dinner">Dinner Menu</a></li>
+			<li><a href="/brunch-menu">Brunch Menu</a></li>
+			<li><a href="/dinner-menu">Dinner Menu</a></li>
 		</ul>
 	</nav>
 </header>

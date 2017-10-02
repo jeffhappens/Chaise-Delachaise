@@ -10,6 +10,11 @@
         <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
         <link rel="stylesheet" href="/css/app.css">
         <link rel="author" href="humans.txt">
+
+        <script src="http://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
+        <script src="https://use.fontawesome.com/ee6f73798b.js"></script>
+        <script src="/js/app.js"></script>        
         
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAF1SbJdm06YaCb9b-gtvyGJw_bdIJHIGY"></script>
         <script type="text/javascript">
