@@ -22,7 +22,3 @@ Route::get('dinner-menu', 'MenuController@dinner');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-
-Route::get('/foo', function() {
-	return 'bar';
-});
